@@ -1,16 +1,41 @@
-### Hi there 👋
+### Hi there, I'm Salah eldin Elsayed 👋
 
-<!--
-**Salah-elsayed-2005/Salah-elsayed-2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Computer Engineering Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm a computer engineering student passionate about software development, open source, and emerging technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I'm currently working on publishing a paper and a data science project
+🌱 I'm currently learning Python and C++
+
+
+### Connect with Me
+
+[<img align="left" alt="LinkedIn" width="200px" src="[https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/salah-elsayed-19389325a/)" />][linkedin]
+ 
+
+[<img align="left" alt="GitHub" width="200px" src="[https://github.com/yourusername](https://github.com/Salah-elsayed-2005)" />][github]
+ 
+[<img align="left" alt="Email" width="200px" src="mailto:salohaeldin360@gmail.com" />][email]
+
+ 
+<br />
+<br />
+<br />
+<br / >
+
+### Languages and Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+ 
+
+[linkedin]: https://www.linkedin.com/in/yourusername
+ 
+
+[github]:  https://www.linkedin.com/in/salah-elsayed-19389325a/
+ 
+
+[email]: mailto:salohaeldin360@gmail.com

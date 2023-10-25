@@ -32,10 +32,10 @@ I'm a computer engineering student passionate about software development, open s
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
  
 
-[linkedin]: https://www.linkedin.com/in/yourusername
+[linkedin]: [https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/salah-elsayed-19389325a/)
  
 
-[github]:  https://www.linkedin.com/in/salah-elsayed-19389325a/
+[github]:  [https://www.linkedin.com/in/salah-elsayed-19389325a/](https://github.com/Salah-elsayed-2005)
  
 
 [email]: mailto:salohaeldin360@gmail.com

@@ -10,10 +10,10 @@ I'm a computer engineering student passionate about software development, open s
 
 ### Connect with Me
 
-[<img align="left" alt="LinkedIn" width="200px" src="[https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/salah-elsayed-19389325a/)" />][linkedin]
+[<img align="left" alt="LinkedIn" width="200px" src=" (https://www.linkedin.com/in/salah-elsayed-19389325a/)" />][linkedin]
  
 
-[<img align="left" alt="GitHub" width="200px" src="[https://github.com/yourusername](https://github.com/Salah-elsayed-2005)" />][github]
+[<img align="left" alt="GitHub" width="200px" src=" (https://github.com/Salah-elsayed-2005)" />][github]
  
 [<img align="left" alt="Email" width="200px" src="mailto:salohaeldin360@gmail.com" />][email]
 
@@ -32,10 +32,10 @@ I'm a computer engineering student passionate about software development, open s
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
  
 
-[linkedin]: [https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/salah-elsayed-19389325a/)
+[linkedin]:  https://www.linkedin.com/in/salah-elsayed-19389325a/
  
 
-[github]:  [https://www.linkedin.com/in/salah-elsayed-19389325a/](https://github.com/Salah-elsayed-2005)
+[github]:   https://github.com/Salah-elsayed-2005
  
 
 [email]: mailto:salohaeldin360@gmail.com

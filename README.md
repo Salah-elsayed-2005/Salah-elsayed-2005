@@ -1,41 +1,15 @@
-### Hi there, I'm Salah eldin Elsayed 👋
+<a href=" https://github.com/Salah-elsayed-2005"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Salah;Welcome+to+my+git+profile+%F0%9F%98%8A" alt="Typing SVG" /></a>
 
-#### Computer Engineering Student | Aspiring Software Developer
-
-I'm a computer engineering student passionate about software development, open source, and emerging technologies.
-
-🔭 I'm currently working on publishing a paper and a data science project
-🌱 I'm currently learning Python and C++
-
-
-### Connect with Me
-
-[<img align="left" alt="LinkedIn" width="200px" src=" (https://www.linkedin.com/in/salah-elsayed-19389325a/)" />][linkedin]
- 
-
-[<img align="left" alt="GitHub" width="200px" src=" (https://github.com/Salah-elsayed-2005)" />][github]
- 
-[<img align="left" alt="Email" width="200px" src="mailto:salohaeldin360@gmail.com" />][email]
 
  
-<br />
-<br />
-<br />
-<br / >
+![cool readme](https://github-readme-stats.vercel.app/api?username=Salah-elsayed-2005&count_private=true&show_icons=true&theme=radical)
 
-### Languages and Tools
+![another another cool readme](https://github-readme-stats.vercel.app/api/top-langs/?username=Salah-elsayed-2005&langs_count=2&layout=compact&theme=radical)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,python,c" /></br>
+   </a>
+</p>
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
- 
-
-[linkedin]:  https://www.linkedin.com/in/salah-elsayed-19389325a/
- 
-
-[github]:   https://github.com/Salah-elsayed-2005
- 
-
-[email]: mailto:salohaeldin360@gmail.com
+![cool counter](https://komarev.com/ghpvc/?username=Salah-elsayed-2005&color=red)
